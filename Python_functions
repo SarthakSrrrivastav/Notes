@@ -1,0 +1,20 @@
+
+
+DRY expands to Don’t Repeat Yourself and this concept of having re-usable blocks of codes is very crucial for achieving abstraction in Python.
+
+
+A function can be called as a section of a program that is written once and can be executed whenever required in the program, thus making code reusability.
+
+
+The rules for naming a function are the same as naming a variable. It begins with either letter from A-Z, a-z in both upper & lower cases or an underscore(_). The rest of its name can contain underscores(_), digits(0-9), any letters in upper or lower case
+
+
+
+                                                              Types Of Python Functions
+
+
+
+Python Built-in Functions
+Python Recursion Functions
+Python Lambda Functions
+Python User-defined Functions
