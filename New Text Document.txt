@@ -1,16 +1,16 @@
                 OS MODULE IN PYTHON
 
-
-
 1. The Python OS module lets us work with the files and directories
 
 2. Basically, a module is collections of python language code, which consists of python functions, variables and classes.
+
 3. The OS module of Python consists of python code, which is a collection of functions and classes specifically used for interaction with the Operating System.
 
+Some Common functions are : 
 
 os.name
 getcwd()
 listdir()
-os.getlogin()   : e user logged in. Simply, the name of the user account will be returned 
+os.getlogin() : Simply, the name of the user account will be returned 
 mkdir()
 rename()
